@@ -1,7 +1,7 @@
 
 import React from "react";
 import './../styles/App.css';
-import PageLayout from './components/PageLayout';
+import PageLayout from './PageLayout';
 
 const App = () => {
   return (
